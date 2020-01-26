@@ -1,0 +1,29 @@
+-g
+-AL 2
+-ra _INRAM01=0x000100/0x0008FF
+-ro _INROM01=0xFF0000/0xFFFFFF
+-check_rora
+-check_locate
+-rg 0
+-m "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\LST\uartRx.mp1"
+-pl 60
+-pw 132
+-alin "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\LST"
+-alout "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\LST"
+-Xals
+-Xalr
+-na
+-w 1
+-cwno
+-a
+-cpu MB90F387
+-o "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\ABS\uartRx.abs"
+
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_prl01.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_prl23.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_tmr.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_FFMC16.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\main.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\monitor16LX.obj"
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\start905s.obj"
+

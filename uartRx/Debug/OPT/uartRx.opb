@@ -1,0 +1,15 @@
+-dt s,d,r,a
+-pl 60
+-pw 132
+-g
+-cwno
+-cpu MB90F387
+"C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\ABS\uartRx.abs"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_prl01.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_prl23.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_io_tmr.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\_FFMC16.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\main.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\monitor16LX.obj"
+-a "C:\Users\MacMac\Desktop\426l_basco\uartRx\Debug\OBJ\start905s.obj"
+
