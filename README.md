@@ -1,4 +1,7 @@
 # IOT426-smart-lights
+A project created with the goal to employ automation using social media.
+The unit is an embedded system that allows you to control section of your home lights remotely using a twitter account. 
+Technologies used: Python, C, Fujitsu MCU
 
 ## Features:
 1. Live tweet scanning
@@ -9,8 +12,7 @@
 
 ## Data Presentation and Analysis
 
-The table below shows the operation of signals from the transmitter to the receiver side and ultimately, interprets the received signal.
-
+The table below shows the operation and interpretation of signals sent from the transmitter(Python) to the receiver side(C).
 ![alt text](https://i.ibb.co/NyQTCSt/table.png "table image")
 
 
