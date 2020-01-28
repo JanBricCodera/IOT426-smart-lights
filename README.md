@@ -10,6 +10,10 @@ Technologies used: Python, C, Fujitsu MCU
 4. LCD status display
 5. Implementation of the electrical circuitry
 
+## Conceptual framework.
+
+![alt text](https://i.ibb.co/1JXQPSp/conceptual-framework.png "conceptual framework")
+
 ## Data Presentation and Analysis
 
 The table below shows the operation and interpretation of signals sent from the transmitter(Python) to the receiver side(C).
