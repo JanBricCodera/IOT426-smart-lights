@@ -1,6 +1,13 @@
-# IOT426-smart-lights
+## IOT426-smart-lights
 
-Data Presentation and Analysis
+# Features:
+  -Live tweet scanning
+	-Activity Log
+	-Twitter software interpreter
+	-LCD status display
+	-Implementation of the electrical circuitry
+
+# Data Presentation and Analysis
 
 The table below shows the operation of signals from the transmitter to the receiver side and ultimately, interprets the received signal.
 
