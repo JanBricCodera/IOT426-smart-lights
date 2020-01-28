@@ -1,11 +1,11 @@
 ## IOT426-smart-lights
 
 # Features:
-  -Live tweet scanning
-	-Activity Log
-	-Twitter software interpreter
-	-LCD status display
-	-Implementation of the electrical circuitry
+1. Live tweet scanning
+2. Activity Log
+3. Twitter software interpreter
+4. LCD status display
+5. Implementation of the electrical circuitry
 
 # Data Presentation and Analysis
 
